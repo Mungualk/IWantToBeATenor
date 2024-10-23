@@ -1,0 +1,58 @@
+
+.tittle {
+    text-align: center;
+    justify-content: center;
+}
+
+.body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    background-color: #c9c6c6;
+    border: 10px;
+    border-color: #000;
+    height: auto;
+    width: 800px;
+    display: flex;
+    padding: 4rem;
+    border: 6rem;
+    border-radius: 2rem;
+    transform: translateX(20%);
+    font-size: 17px;
+}
+
+.listas {
+    display: flex;
+    background-color: rgb(101, 116, 116);
+    border-radius: 3rem;
+}
+
+.FBimg {
+    height: 30%;
+    width: 30%;
+} 
+
+.Jamimg {
+    height: 30%;
+    width: 30%;
+}
+
+.ICPCimg {
+    height: 20%;
+    width: 20;
+}
+
+.IOIimg {
+    width: 20%;
+    height: 20%;
+}
+
+.listas img {
+    justify-content: center;
+    align-items: center;
+    transform: translateX(70%);
+    border-radius: 3rem;
+}
